@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 <!-- fortune:start -->
 
-XI: If the Earth could be made to rotate twice as fast, managers would get twice as much done. If the Earth could be made to rotate twenty times as fast, everyone else would get twice as much done since all the managers would fly off. XII: It costs a lot to build bad products. XIII: There are many highly successful businesses in the United States. There are also many highly paid executives. The policy is not to intermingle the two. XIV: After the year 2015, there will be no airplane crashes. There will be no takeoffs either, because electronics will occupy 100 percent of every airplane&#x27;s weight. XV: The last 10 percent of performance generates one-third of the cost and two-thirds of the problems.
+I&#x27;m often asked the question, &quot;Do you think there is extraterrestrial intelli- gence?&quot; I give the standard arguments -- there are a lot of places out there, and use the word *billions*, and so on. And then I say it would be astonishing to me if there weren&#x27;t extraterrestrial intelligence, but of course there is as yet no compelling evidence for it. And then I&#x27;m asked, &quot;Yeah, but what do you really think?&quot; I say, &quot;I just told you what I really think.&quot; &quot;Yeah, but what&#x27;s your gut feeling?&quot; But I try not to think with my gut. Really, it&#x27;s okay to reserve judgment until the evidence is in.
 
-<p align="right">-- Norman Augustine</p>
+<p align="right">-- Carl Sagan</p>
 
 <!-- fortune:end -->
