@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 <!-- fortune:start -->
 
-I&#x27;m often asked the question, &quot;Do you think there is extraterrestrial intelli- gence?&quot; I give the standard arguments -- there are a lot of places out there, and use the word *billions*, and so on. And then I say it would be astonishing to me if there weren&#x27;t extraterrestrial intelligence, but of course there is as yet no compelling evidence for it. And then I&#x27;m asked, &quot;Yeah, but what do you really think?&quot; I say, &quot;I just told you what I really think.&quot; &quot;Yeah, but what&#x27;s your gut feeling?&quot; But I try not to think with my gut. Really, it&#x27;s okay to reserve judgment until the evidence is in.
+I&#x27;d crawl over an acre of &#x27;Visual This++&#x27; and &#x27;Integrated Development That&#x27; to get to gcc, Emacs, and gdb. Thank you.
 
-<p align="right">-- Carl Sagan</p>
+<p align="right">-- Vance Petree, Virginia Power</p>
 
 <!-- fortune:end -->
