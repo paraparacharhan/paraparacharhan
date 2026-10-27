@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 
 <!-- fortune:start -->
 
-I&#x27;d crawl over an acre of &#x27;Visual This++&#x27; and &#x27;Integrated Development That&#x27; to get to gcc, Emacs, and gdb. Thank you.
-
-<p align="right">-- Vance Petree, Virginia Power</p>
+Well, Jim, I&#x27;m not much of an actor either.
 
 <!-- fortune:end -->
