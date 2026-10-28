@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 
 <!-- fortune:start -->
 
-Well, Jim, I&#x27;m not much of an actor either.
+*** STUDENT SUCCESSES *** Many of our students have gone on to achieve great success in all fields of programming. One former student developed the concept of the personalized form letter. Does the phrase, &quot;Dear Mr.(insert name), You may already be a winner!,&quot; sound familiar? Another student writes &quot;After only five lessons I sold a &quot;My Most Unforgettable Program&quot; article to Corrosive Computing magazine. Another of our graduates writes, &quot;I recently completed a database-management program for my department manager. My program touched him so deeply that he was speechless. He told me later that he had never seen such a program in his entire career. Thank you, Famous Programmers&#x27; school; only you could have made this possible.&quot; Send for our introductory brochure which explains in vague detail the operation of the Famous Programmers&#x27; School, and you&#x27;ll be eligible to win a possible chance to enter a drawing, the winner of which can vie for a set of free steak knives. If you don&#x27;t do it now, you&#x27;ll hate yourself in the morning.
 
 <!-- fortune:end -->
