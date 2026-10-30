@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 <!-- fortune:start -->
 
-Real computer scientists admire ADA for its overwhelming aesthetic value but they find it difficult to actually program in it, as it is much too large to implement. Most computer scientists don&#x27;t notice this because they are still arguing over what else to add to ADA.
+It is more rational to sacrifice one life than six.
+
+<p align="right">-- Spock, &quot;The Galileo Seven&quot;, stardate 2822.3</p>
 
 <!-- fortune:end -->
