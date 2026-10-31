@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 <!-- fortune:start -->
 
-It is more rational to sacrifice one life than six.
+And this is a table ma&#x27;am. What in essence it consists of is a horizontal rectilinear plane surface maintained by four vertical columnar supports, which we call legs. The tables in this laboratory, ma&#x27;am, are as advanced in design as one will find anywhere in the world.
 
-<p align="right">-- Spock, &quot;The Galileo Seven&quot;, stardate 2822.3</p>
+<p align="right">-- Michael Frayn, &quot;The Tin Men&quot;</p>
 
 <!-- fortune:end -->
