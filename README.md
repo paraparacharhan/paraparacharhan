@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 <!-- fortune:start -->
 
-And this is a table ma&#x27;am. What in essence it consists of is a horizontal rectilinear plane surface maintained by four vertical columnar supports, which we call legs. The tables in this laboratory, ma&#x27;am, are as advanced in design as one will find anywhere in the world.
+The flush toilet is the basis of Western civilization.
 
-<p align="right">-- Michael Frayn, &quot;The Tin Men&quot;</p>
+<p align="right">-- Alan Coult</p>
 
 <!-- fortune:end -->
