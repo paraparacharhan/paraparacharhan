@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 <!-- fortune:start -->
 
-We are experiencing system trouble -- do not adjust your terminal.
+Premature optimization is the root of all evil.
+
+<p align="right">-- D. E. Knuth</p>
 
 <!-- fortune:end -->
