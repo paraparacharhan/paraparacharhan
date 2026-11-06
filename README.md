@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 <!-- fortune:start -->
 
-Premature optimization is the root of all evil.
+Do you think that when they asked George Washington for ID that he just whipped out a quarter?
 
-<p align="right">-- D. E. Knuth</p>
+<p align="right">-- Steven Wright</p>
 
 <!-- fortune:end -->
