@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 
 <!-- fortune:start -->
 
-Once upon a time, when I was training to be a mathematician, a group of us bright young students taking number theory discovered the names of the smaller prime numbers. 2: The Odd Prime -- It&#x27;s the only even prime, therefore is odd. QED. 3: The True Prime -- Lewis Carroll: &quot;If I tell you 3 times, it&#x27;s true.&quot; 31: The Arbitrary Prime -- Determined by unanimous unvote. We needed an arbitrary prime in case the prof asked for one, and so had an election. 91 received the most votes (well, it *looks* prime) and 3+4i the next most. However, 31 was the only candidate to receive none at all. 41: The Female Prime -- The polynomial X**2 - X + 41 is prime for integer values from 1 to 40. 43: The Male Prime - they form a prime pair. Since the composite numbers are formed from primes, their qualities are derived from those primes. So, for instance, the number 6 is &quot;odd but true&quot;, while the powers of 2 are all extremely odd numbers.
+The IQ of the group is the lowest IQ of a member of the group divided by the number of people in the group.
 
 <!-- fortune:end -->
