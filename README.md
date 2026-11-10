@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 <!-- fortune:start -->
 
-The IQ of the group is the lowest IQ of a member of the group divided by the number of people in the group.
+: The following (relative to AutoSplit 1.03) attempts to please everyone : and perhaps pleases no one: I think that&#x27;s way cool.
+
+<p align="right">-- Larry Wall in &lt;199709292015.NAA09627@wall.org&gt;</p>
 
 <!-- fortune:end -->
