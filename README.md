@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 
 <!-- fortune:start -->
 
-: The following (relative to AutoSplit 1.03) attempts to please everyone : and perhaps pleases no one: I think that&#x27;s way cool.
-
-<p align="right">-- Larry Wall in &lt;199709292015.NAA09627@wall.org&gt;</p>
+1: No code table for op: ++post
 
 <!-- fortune:end -->
