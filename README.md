@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 
 <!-- fortune:start -->
 
-1: No code table for op: ++post
+&quot;On the Internet, no one knows you&#x27;re using Windows NT&quot; (Submitted by Ramiro Estrugo, restrugo@fateware.com)
 
 <!-- fortune:end -->
