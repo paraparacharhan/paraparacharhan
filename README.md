@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 <!-- fortune:start -->
 
-If it happens once, it&#x27;s a bug. If it happens twice, it&#x27;s a feature. If it happens more than twice, it&#x27;s a design philosophy.
+Death, when unnecessary, is a tragic thing.
+
+<p align="right">-- Flint, &quot;Requiem for Methuselah&quot;, stardate 5843.7</p>
 
 <!-- fortune:end -->
