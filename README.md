@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 <!-- fortune:start -->
 
-Death, when unnecessary, is a tragic thing.
+Wrinkles should merely indicate where smiles have been.
 
-<p align="right">-- Flint, &quot;Requiem for Methuselah&quot;, stardate 5843.7</p>
+<p align="right">-- Mark Twain</p>
 
 <!-- fortune:end -->
