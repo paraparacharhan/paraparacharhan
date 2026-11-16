@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 <!-- fortune:start -->
 
-Wrinkles should merely indicate where smiles have been.
+Disease can be cured; fate is incurable.
 
-<p align="right">-- Mark Twain</p>
+<p align="right">-- Chinese proverb</p>
 
 <!-- fortune:end -->
