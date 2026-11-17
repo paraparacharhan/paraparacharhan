@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 <!-- fortune:start -->
 
-Disease can be cured; fate is incurable.
+Actual war is a very messy business. Very, very messy business.
 
-<p align="right">-- Chinese proverb</p>
+<p align="right">-- Kirk, &quot;A Taste of Armageddon&quot;, stardate 3193.0</p>
 
 <!-- fortune:end -->
