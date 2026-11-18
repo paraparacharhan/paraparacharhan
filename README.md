@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 
 <!-- fortune:start -->
 
-Actual war is a very messy business. Very, very messy business.
-
-<p align="right">-- Kirk, &quot;A Taste of Armageddon&quot;, stardate 3193.0</p>
+If it has syntax, it isn&#x27;t user friendly.
 
 <!-- fortune:end -->
