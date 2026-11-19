@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 <!-- fortune:start -->
 
-If it has syntax, it isn&#x27;t user friendly.
+He is now rising from affluence to poverty.
+
+<p align="right">-- Mark Twain</p>
 
 <!-- fortune:end -->
