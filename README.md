@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 
 <!-- fortune:start -->
 
-He is now rising from affluence to poverty.
-
-<p align="right">-- Mark Twain</p>
+All Finagle Laws may be bypassed by learning the simple art of doing without thinking.
 
 <!-- fortune:end -->
