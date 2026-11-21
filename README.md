@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 <!-- fortune:start -->
 
-All Finagle Laws may be bypassed by learning the simple art of doing without thinking.
+I have a rock garden. Last week three of them died.
+
+<p align="right">-- Richard Diran</p>
 
 <!-- fortune:end -->
