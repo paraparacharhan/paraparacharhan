@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 <!-- fortune:start -->
 
-I have a rock garden. Last week three of them died.
+Microsoft DNS service terminates abnormally when it recieves a response to a DNS query that was never made. Fix Information: Run your DNS service on a different platform.
 
-<p align="right">-- Richard Diran</p>
+<p align="right">-- bugtraq</p>
 
 <!-- fortune:end -->
