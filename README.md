@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 <!-- fortune:start -->
 
-Death, when unnecessary, is a tragic thing.
+As part of the conversion, computer specialists rewrote 1,500 programs; a process that traditionally requires some debugging.
 
-<p align="right">-- Flint, &quot;Requiem for Methuselah&quot;, stardate 5843.7</p>
+<p align="right">-- USA Today, referring to the Internal Revenue Service conversion to a new computer system.</p>
 
 <!-- fortune:end -->
