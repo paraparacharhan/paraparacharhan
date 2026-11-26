@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 
 <!-- fortune:start -->
 
-&quot;I quite agree with you,&quot; said the Duchess; &quot;and the moral of that is -- `Be what you would seem to be&#x27; -- or, if you&#x27;d like it put more simply -- `Never imagine yourself not to be otherwise than what it might appear to others that what you were or might have been was not otherwise than what you had been would have appeared to them to be otherwise.&#x27;&quot;
-
-<p align="right">-- Lewis Carrol, &quot;Alice in Wonderland&quot;</p>
+Crazee Edeee, his prices are INSANE!!!
 
 <!-- fortune:end -->
