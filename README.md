@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 
 <!-- fortune:start -->
 
-Crazee Edeee, his prices are INSANE!!!
+Q: How do you keep a moron in suspense?
 
 <!-- fortune:end -->
